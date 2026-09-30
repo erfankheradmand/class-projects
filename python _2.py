@@ -6,3 +6,4 @@ for i in range(100,1000):
         count += 1
 average = sum / count
 print( "average : " , average)
+print('pass')
