@@ -1,0 +1,12 @@
+pip install numpy
+
+
+
+
+
+
+
+
+
+
+
